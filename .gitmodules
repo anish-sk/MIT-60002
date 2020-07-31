@@ -1,0 +1,15 @@
+[submodule "MIT-60002-PS5"]
+	path = MIT-60002-PS5
+	url = git@github.com:anish-sk/MIT-60002-PS5.git
+[submodule "MIT-60002-PS4"]
+	path = MIT-60002-PS4
+	url = git@github.com:anish-sk/MIT-60002-PS4.git
+[submodule "MIT-60002-PS3"]
+	path = MIT-60002-PS3
+	url = git@github.com:anish-sk/MIT-60002-PS3.git
+[submodule "MIT-60002-PS2"]
+	path = MIT-60002-PS2
+	url = git@github.com:anish-sk/MIT-60002-PS2.git
+[submodule "MIT-60002-PS1"]
+	path = MIT-60002-PS1
+	url = git@github.com:anish-sk/MIT-60002-PS1.git
